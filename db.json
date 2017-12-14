@@ -1,6 +1,6 @@
 {
   "saif": [
-    { "id": 1, "title": "Post 1" },
+    { "id": 1, "title": "Post 1" }
   ],
   "comments": [
     { "id": 1, "body": "some comment", "postId": 1 },
