@@ -1,11 +1,12 @@
 {
-  "posts1": [
-    { "id": 0, "title": "SAIF" }
+  "posts": [
+    { "id": 1, "title": "Post 1" },
   ],
-  "posts2": [
-    { "id": 1, "title": "BATAMN" }
+  "comments": [
+    { "id": 1, "body": "some comment", "postId": 1 },
+    { "id": 2, "body": "some comment", "postId": 1 }
   ],
-  "posts3": [
-    { "id": 2, "title": "JUVENTUS" }
-  ],
+  "profile": {
+    "name": "typicode"
+  }
 }
