@@ -1,11 +1,11 @@
 {
   "posts": [
-    { "id": 1, "title": "Post 1" }
+    { "id": 1, "title": "Post 1", "price": 100 }
   ],
   "comments": [
-    { "id": 1, "title": "some comment", "postId": 1 }
+    { "id": 1, "title": "some comment", "price": 200 }
   ],
   "fuck": [
-    { "id": 1, "title": "fuck", "postId": 1 }
+    { "id": 1, "title": "fuck", "price": 99.10 }
   ]
 }
