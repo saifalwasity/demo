@@ -1,11 +1,7 @@
 {
-  "posts": [
-    { "id": 1, "title": "Post 1", "price": 100.20 }
-  ],
-  "comments": [
-    { "id": 2, "title": "some comment", "price": 200.10 }
-  ],
-  "fuck": [
+  "saif": [
+    { "id": 1, "title": "Post 1", "price": 100.20 },
+    { "id": 2, "title": "some comment", "price": 200.10 },
     { "id": 3, "title": "fuck", "price": 99.10 }
   ]
 }
