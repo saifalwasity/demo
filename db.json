@@ -1,11 +1,11 @@
 {
-  "posts": [
+  "sss": [
     { "id": 1, "title": "Post 1", "price": 100.20 }
   ],
-  "posts": [
+  "sss": [
     { "id": 2, "title": "some comment", "price": 200.10 }
   ],
-  "posts": [
+  "sss": [
     { "id": 3, "title": "fuck", "price": 99.10 }
   ]
 }
