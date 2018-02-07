@@ -4,8 +4,5 @@
   ],
   "sss": [
     { "id": 2, "title": "some comment", "price": 200.10 }
-  ],
-  "sss": [
-    { "id": 3, "title": "fuck", "price": 99.10 }
   ]
 }
